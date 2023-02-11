@@ -1,3 +1,5 @@
+property-file.name=server-properties
+property-file.description=Github default environment properties.
 eureka:
   client:
     register-with-eureka: true
